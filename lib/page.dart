@@ -127,7 +127,7 @@ class _SPageState extends State<SPage> {
                         },
                       ),
                       labelText: 'Email',
-                      hintText: 'Enter your email',
+                      hintText: 'Enter your unique email',
                       fillColor: Color(0xffffffff),
                       filled: true,
                       border: const OutlineInputBorder(
